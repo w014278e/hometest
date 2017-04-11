@@ -1,4 +1,4 @@
-var BASE_PATH = '/dfmsportsappdemo/';
+var BASE_PATH = '/hometest/';
 var CACHE_NAME = 'bgPWA-v1';
 var TEMP_IMAGE_CACHE_NAME = 'temp-cache-v1';
 var newsAPIJSON = "https://newsapi.org/v1/articles?source=sky-sports-news&sortBy=latest&apiKey=2117f72d54d5433eba479863fb7ab3e5";

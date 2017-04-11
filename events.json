@@ -1,0 +1,38 @@
+[
+    {
+        "picture": "images/eventsimages/example-work01.jpg",
+        "heading": "Article 1",
+        "text": "Enim labore aliqua consequat ut quis ad occaecat aliquip incididunt. Sunt nulla eu enim irure enim nostrud aliqua consectetur ad consectetur sunt ullamco officia. Ex officia laborum et consequat duis.",
+        "link": "http://google.com/?q=Blog template"
+    },
+    {
+        "picture": "images/eventsimages/example-work07.jpg",
+        "heading": "Article 2",
+        "text": "Enim labore aliqua consequat ut quis ad occaecat aliquip incididunt. Sunt nulla eu enim irure enim nostrud aliqua consectetur ad consectetur sunt ullamco officia. Ex officia laborum et consequat duis.",
+        "link": "http://google.com/?q=Sunt nulla"
+    },
+    {
+        "picture": "images/eventsimages/example-work02.jpg",
+        "heading": "Article 3",
+        "text": "Enim labore aliqua consequat ut quis ad occaecat aliquip incididunt. Sunt nulla eu enim irure enim nostrud aliqua consectetur ad consectetur sunt ullamco officia. Ex officia laborum et consequat duis.",
+        "link": "http://google.com/?q=Android.com website"
+    },
+    {
+        "picture": "images/eventsimages/example-work03.jpg",
+        "heading": "Article 4",
+        "text": "Enim labore aliqua consequat ut quis ad occaecat aliquip incididunt. Sunt nulla eu enim irure enim nostrud aliqua consectetur ad consectetur sunt ullamco officia. Ex officia laborum et consequat duis.",
+        "link": "http://google.com/?q=Dashboard template"
+    },
+    {
+        "picture": "images/eventsimages/example-work04.jpg",
+        "heading": "Article 5",
+        "text": "Enim labore aliqua consequat ut quis ad occaecat aliquip incididunt. Sunt nulla eu enim irure enim nostrud aliqua consectetur ad consectetur sunt ullamco officia. Ex officia laborum et consequat duis.",
+        "link": "http://google.com/?q=Text-heavy website"
+    },
+    {
+        "picture": "images/eventsimages/example-work08.jpg",
+        "heading": "Article 6",
+        "text": "Enim labore aliqua consequat ut quis ad occaecat aliquip incididunt. Sunt nulla eu enim irure enim nostrud aliqua consectetur ad consectetur sunt ullamco officia. Ex officia laborum et consequat duis.",
+        "link": "http://google.com/?q=Ex officia laborum"
+    }
+]
